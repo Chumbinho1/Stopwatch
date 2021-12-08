@@ -164,7 +164,7 @@ footer{
     font-weight: bolder;
 }
 
-@media screen and (max-width: 305px){
+@media screen and (max-width: 340px){
     a li{
         display: block;
         margin-bottom: 10px;
